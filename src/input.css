@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.doctor{
+    background-image: url(./images/5384c8cfe4c254ab38d1f557f70b0355f48b740a.jpg);
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    backdrop-filter: blur(4px);
+    opacity: 70%;
+}
