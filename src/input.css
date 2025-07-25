@@ -8,3 +8,10 @@
     background-repeat: no-repeat;
     height: 270px;
 }
+.back{
+    background-image: url('../img-project5/Rectangle\ 3.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 270px;
+}
